@@ -1,6 +1,5 @@
 from curses.ascii import isdigit
 
-
 sentence = "is2 Thi1s T4est 3a"
 wordsarr = sentence.split(" ")
 output = ""
