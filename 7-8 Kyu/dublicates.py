@@ -1,6 +1,6 @@
 def main():
   text = input("Enter: ")
-
+  dublicates(text)
   
 def dublicates():
   outp = ""
