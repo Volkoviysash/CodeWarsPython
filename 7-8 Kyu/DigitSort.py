@@ -1,4 +1,4 @@
-#sort digits in some number
+#sort digits in input number
 def main ():
     num = 42145
     arr = [int(x) for x in str(num)]
